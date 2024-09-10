@@ -47,7 +47,7 @@ ScrollReveal().reveal('.conteudo-home p, .sobre-conteudo',{ origin: 'right' });
 
 //animação de digitar
 const digitar = new Typed('.texto-digitado', {
-    strings: ['Estudante de SI', 'Futuro Estágiario', 'Futuro Profissional'],
+    strings: ['Estudante de SI', 'Estágiario', 'Desenvolvedor'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
