@@ -19,7 +19,7 @@ Portfólio apresentando minhas habilidades e meus interesses
 ![tela inicial do projeto](imagens/fotoPortfolio.png)
 
 ## Demonstração
-[Link demonstração]([https://luizeduardobritogomes.netlify.app/#home](https://luizeduardobg.netlify.app))
+[Link demonstração](https://luizeduardobg.netlify.app/)
 
 ## 🚀Tecnologias Utilizadas
 1. HTML
