@@ -29,8 +29,8 @@ Portfólio apresentando minhas habilidades e meus interesses
 ## 👨🏼‍💻👩🏼‍💻Pessoas Autoras / Cursos responsáveis pelo projeto
 1. [Luiz Eduardo Brito Gomes](https://github.com/Luiz-BG)
 
-## 📄Proximos passos (coloque aqui as evoluções que procura no projeto pro futuro)
+## 📄Proximos passos
 - [ ] Continuar a fazer atualizações de interesses meus
-- [ ] Tornar o código mais consiso
+- [ ] Enriquecer meu portifólio com mais recursos e linguagens
 
 <a href="https://www.linkedin.com/in/luizeduardobritogomes">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
